@@ -1,0 +1,20 @@
+body {
+    background: #000000;
+}
+
+.container {
+    width: 700px;
+    height: auto;
+    margin: 80px auto;
+    position: relative;
+}
+
+.circle {
+    width: 600px;
+    height: 600px;
+    border: solid 50px #ffffff;
+    border-radius: 50%;
+    top: 70px;
+    position: absolute;
+    z-index: 10;
+}
